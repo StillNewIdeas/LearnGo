@@ -1,2 +1,5 @@
 ## Used ressource:
-https://www.youtube.com/watch?v=jFfo23yIWac&list=PLre8k7BDWJg-k9yotEYz7AW-0U1dKQFRI
+Currently doing the "Learn Go"-Course by Lane Wagner on boot.dev. 
+Here I'll post the code for the given needed projects in order to pass the course. 
+
+:)
